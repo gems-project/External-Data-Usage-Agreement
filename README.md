@@ -39,4 +39,4 @@ Authorship on these analysis papers is not automatic and will follow standard sc
 
 “Authorship on all papers for publication shall be in accordance with customary and usual publication practice in the scientific community.”
 
-Accordingly, co-authorship on analysis papers will be determined by the lead/first authors based on intellectual contribution (e.g., study design, data analysis, interpretation, and manuscript preparation), rather than data contribution alone.
+Accordingly, co-authorship on analysis papers will be determined by the lead/first authors based on further intellectual contribution (e.g., study design, data analysis, interpretation, and manuscript preparation), rather than data contribution alone.
