@@ -25,7 +25,7 @@ The dataset paper will serve as the primary reference and will be cited in all s
 
 If a contributor selects "YES" to the open source option:
 
-Their data will be included in the overall dataset; and
+Their data will be included in the overall dataset; AND
 
 The data will be made available through the dataset publication described above.
 
