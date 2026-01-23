@@ -17,7 +17,7 @@ Co-authorship (up to two authors per organization), in recognition of data contr
 
 This is explicitly stated in Section 10(g) of the DUA:
 
-“For the publication of the overall dataset only, Organization will be granted authorship – maximum two authors.”
+**“For the publication of the overall dataset only, Organization will be granted authorship – maximum two authors.”**
 
 The dataset paper will serve as the primary reference and will be cited in all subsequent publications that analyze the data.
 
@@ -37,6 +37,6 @@ In addition to the dataset paper, the consortium will publish scientific papers 
 
 Authorship on these analysis papers is not automatic and will follow standard scientific practice, as stated in Section 10(g):
 
-“Authorship on all papers for publication shall be in accordance with customary and usual publication practice in the scientific community.”
+**“Authorship on all papers for publication shall be in accordance with customary and usual publication practice in the scientific community.”**
 
 Accordingly, co-authorship on analysis papers will be determined by the lead/first authors based on further intellectual contribution (e.g., study design, data analysis, interpretation, and manuscript preparation), rather than data contribution alone.
