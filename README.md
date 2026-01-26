@@ -7,13 +7,14 @@ The wording below is aligned with Section 8(a) and Section 10(g) of the Data Usa
 # 1. How your DATA will be used
 
 All contributed DATA will be used solely for the purposes of the Project, including:
+
 > Data harmonization and quality control
 
 > Descriptive analyses and summary statistics
 
-> Method development and benchmarking
+> Comparative and methodological research
 
-> Scientific analyses supporting the development of GreenFeed guidelines
+> Scientific analyses supporting the development of guidelines for GreenFeed users
 
 DATA may be shared among Consortium members for research activities consistent with the DUA.
 
